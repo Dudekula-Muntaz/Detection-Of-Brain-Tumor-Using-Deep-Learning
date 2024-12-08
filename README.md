@@ -1,1 +1,1 @@
-# Detection-Of-Brain-Tumor-Using-Deep-Learning
+This project uses a Convolutional Neural Network (CNN) algorithm to detect brain tumors from medical images. The model is trained to classify tumor presence with high accuracy. A Python Flask framework is used to create a web-based interface for uploading MRI scans and displaying the detection results. The project aims to assist healthcare professionals in early tumor detection.
